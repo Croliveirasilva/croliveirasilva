@@ -1,8 +1,14 @@
-### Oi  👋
+
+
+
+### Ehhh Galera Carlos na área  👋
 
 Eu sou Carlos Rafael sou especialista em conteúdo atualmente estou desenvolvendo em  PHP - C# - AngularJs, alem disso estudo React - React-Native
 
 <!---**Croliveirasilva/croliveirasilva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
+
+[<img src="https://img.shields.io/badge/-croliveirasilva-1C0548?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/croliveirasilva) [<img src="https://img.shields.io/badge/-croliveirasilva-1C0548?&style=for-the-badge&logo=youtube&logoColor=white" />](https://www.youtube.com/channel/UCzbeXUr-FusbUbTdaSoQ4QQ) [<img src="https://img.shields.io/badge/-croliveirasilva-1C0548?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/croliveirasilva/) [<img src = "https://img.shields.io/badge/-croliveirasilva-1C0548?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/croliveirasilva/) [<img src = "https://img.shields.io/badge/-croliveirasilva-1C0548?&style=for-the-badge&logo=facebook&logoColor=white">](https://www.facebook.com/croliveirasilva)
+
 
 Aqui estão algumas ideias para você começar:
 
@@ -30,3 +36,4 @@ Aqui estão algumas ideias para você começar:
 
 </p>
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Croliveirasilva&layout=compact)](https://github.com/Croliveirasilva/github-readme-stats)
