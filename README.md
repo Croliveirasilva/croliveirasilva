@@ -76,4 +76,6 @@ Por ser responsável na criação de estratégias de conteúdo, acabei virando u
 Pouco tempo depois decidimos fechar a empresa e com isso comecei a focar mais na área de marketing e conteúdo, abandonando de vez o desenvolvimento. Porém uma coisa me deixou incomodado, eu havia me formado em desenvolvimento de games mas nunca tinha feito um game e sempre que falava sobre minha formação alguém me perguntava e aí já fiz um game, e minha resposta sempre era não, mesmo tendo participado de 2 pequenos projetos que não tiveram continuidade.
 
 Com isso no final de 2020 decide voltar a desenvolver e lançar mesmo que fosse um pequeno jogo assim nasceu o game obrio meu primeiro game, com isso passei o início de 2021 buscando uma vaga de dev e como fiquei muito tempo sem desenvolver passei a buscar vagas de junior, hoje voltei a desenvolver e voltei a me apaixonar por programação, e a partir daqui teremos uma nova história a ser contada então fique ligado nas minhas redes sociais que com toda certeza lá teremos muitas atualizações.
+
+![Snake animation](https://github.com/croliveira/croliveira/blob/output/github-contribution-grid-snake.svg)
  
