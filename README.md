@@ -28,9 +28,9 @@
 <div align="center">
 <h2>Artes que desenvolvi</h2>
 
-[<img src="https://img.shields.io/badge/-Behance-1C0548?style=for-the-badge&logo=behance&logoColor=white"/>](https://croscontent.itch.io/) 
-[<img src="https://img.shields.io/badge/Dribbble-1C0548?style=for-the-badge&logo=dribbble&logoColor=white"/>](https://play.google.com/store/apps/dev?id=6379538041590784787)
-[<img src="https://img.shields.io/badge/Pinterest-1C0548.svg?&style=for-the-badge&logo=Pinterest&logoColor=white"/>](https://play.google.com/store/apps/dev?id=6379538041590784787)
+[<img src="https://img.shields.io/badge/-Behance-1C0548?style=for-the-badge&logo=behance&logoColor=white"/>](https://www.behance.net/croliveirasilva/) 
+
+[<img src="https://img.shields.io/badge/Pinterest-1C0548.svg?&style=for-the-badge&logo=Pinterest&logoColor=white"/>](https://br.pinterest.com/CRoliveirasilva/)
 </div>
 
 <h2>Linguagens que estou trabalhando</h2>
